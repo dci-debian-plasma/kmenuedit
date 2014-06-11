@@ -22,7 +22,7 @@ Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
  libkf5threadweaver-dev (>= 4.100.0), libkf5unitconversion-dev (>= 4.100.0),
  libkf5service-dev (>= 4.100.0), libkf5sonnet-dev (>= 4.100.0), libkf5itemmodels-dev (>= 4.100.0), libkf5emoticons-dev (>= 4.100.0), kgendesignerplugin (>= 4.99.0), kdoctools-dev (>= 4.99.0), libkf5crash-dev (>= 4.99.0), libkf5i18n-dev (>= 4.99.0),
  libkf5sysguard-dev, liblsofui5, libprocesscore5, libprocessui5, libksignalplotter5,
- libksgrd5
+ libksgrd5, khotkeys-dev
 Standards-Version: 3.9.5
 Section: libs
 Homepage: https://projects.kde.org/projects/kde/unstable/plasma/kmenuedit
