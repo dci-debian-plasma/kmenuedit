@@ -1,6 +1,10 @@
 kmenuedit (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Jonathan Riddell ]
   * New upstream beta release
+
+  [ Harald Sitter ]
+  * Give lintian overrides file proper name to actually be picked up
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:26:55 +0200
 
