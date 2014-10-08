@@ -5,6 +5,8 @@ kmenuedit (4:5.0.95-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Harald Sitter ]
   * Give lintian overrides file proper name to actually be picked up
+  * Use more generic install instructions for the binary package to make it
+    more reliable for future changes.
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 01 Oct 2014 15:26:55 +0200
 
