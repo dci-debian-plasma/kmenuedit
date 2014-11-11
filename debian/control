@@ -63,16 +63,6 @@ Description: XDG menu editor
  .
  This package contains the runtime files.
 
-Package: kmenuedit-data
-Section: libs
-Architecture: any
-Depends: kmenuedit (= ${binary:Version}), ${misc:Depends}, ${shlibs:Depends}
-Description: XDG menu editor
- This package provides a menu editor which may be used to edit the KDE Plasma
- workspaces menu or any other XDG menu.
- .
- This package contains the data files
-
 Package: kmenuedit-dbg
 Section: debug
 Architecture: any
