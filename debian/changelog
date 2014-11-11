@@ -1,53 +1,11 @@
+kmenuedit (4:5.1.1-0ubuntu2) vivid; urgency=medium
+
+  * Remove unnecesary data package
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 11 Nov 2014 12:37:27 +0100
+
 kmenuedit (4:5.1.1-0ubuntu1) vivid; urgency=medium
 
-  [ Jonathan Riddell ]
-  * New upstream beta release
-
-  [ Harald Sitter ]
-  * Give lintian overrides file proper name to actually be picked up
-  * Use more generic install instructions for the binary package to make it
-    more reliable for future changes.
-
-  [ Jonathan Riddell ]
-  * New upstream release
-  * New upstream release with fixed tar
-
-  [ Scarlett Clark ]
-  * New upstream release
+  * Initial release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 10 Nov 2014 19:45:04 +0100
-
-kmenuedit (4:5.0.2-0ubuntu1) utopic; urgency=medium
-
-  [ Harald Sitter ]
-  * switch to new pkg-kde-tools
-
-  [ Scarlett Clark ]
-  * New upstream release
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 17 Sep 2014 18:15:57 -0700
-
-kmenuedit (4:5.0.1-0ubuntu1~ubuntu14.10~ppa2) utopic; urgency=medium
-
-  [ Jonathan Riddell ]
-  * New upstream release
-
-  [ Scarlett Clark ]
-  * Update watch to http://download.kde.org
-
-  [ Jonathan Riddell ]
-  * New upstream bugfix release
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Sun, 10 Aug 2014 15:42:24 +0200
-
-kmenuedit (4:4.98.0-0ubuntu1) utopic; urgency=medium
-
-  * New upstream RC release
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 07 Jul 2014 13:19:50 +0200
-
-kmenuedit (4:4.97.0a-0ubuntu1) utopic; urgency=medium
-
-  * Initial release.
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 09 Jun 2014 10:25:15 +0100
