@@ -3,6 +3,8 @@ kmenuedit (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Prepare initial Debian release.
   * Add myself as Uploader.
   * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 12 Feb 2015 21:45:30 +0100
 
