@@ -1,6 +1,8 @@
 Source: kmenuedit
-Priority: extra
+Section: kde
+Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
                extra-cmake-modules (>= 1.3.0~),
@@ -15,11 +17,9 @@ Build-Depends: cmake,
                xauth,
                xvfb
 Standards-Version: 3.9.5
-Section: libs
 Homepage: https://projects.kde.org/projects/kde/unstable/plasma/kmenuedit
 
 Package: kmenuedit
-Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: XDG menu editor
@@ -30,6 +30,7 @@ Description: XDG menu editor
 
 Package: kmenuedit-dbg
 Section: debug
+Priority: extra
 Architecture: any
 Recommends: qtbase5-dbg
 Depends: kmenuedit (= ${binary:Version}), ${misc:Depends}
