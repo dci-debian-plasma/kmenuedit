@@ -20,7 +20,9 @@ Build-Depends: cmake (>= 2.8.12),
                xauth,
                xvfb
 Standards-Version: 3.9.6
-Homepage: https://projects.kde.org/projects/kde/unstable/plasma/kmenuedit
+Homepage: https://projects.kde.org/projects/kde/workspace/kmenuedit
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kmenuedit.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kmenuedit.git
 
 Package: kmenuedit
 Architecture: any
