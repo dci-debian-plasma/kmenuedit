@@ -16,7 +16,9 @@ Build-Depends: cmake,
                xvfb
 Standards-Version: 3.9.5
 Section: libs
-Homepage: https://projects.kde.org/projects/kde/unstable/plasma/kmenuedit
+Homepage: https://projects.kde.org/projects/kde/workspace/kmenuedit
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/kmenuedit.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kmenuedit.git
 
 Package: kmenuedit
 Section: utils
