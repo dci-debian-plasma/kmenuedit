@@ -1,11 +1,11 @@
-kmenuedit (4:5.3.2-1~) UNRELEASED; urgency=medium
+kmenuedit (4:5.3.2-1) unstable; urgency=medium
 
   * New upstream release (5.3.0).
   * New upstream release (5.3.1).
   * New upstream release (5.3.2).
   * Update copyright information.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 12:20:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 02 Jul 2015 11:39:18 +0200
 
 kmenuedit (4:5.3.1-0ubuntu1) wily; urgency=medium
 
