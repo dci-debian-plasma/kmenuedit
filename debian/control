@@ -15,7 +15,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5kdelibs4support-dev (>= 5.2.0),
                libkf5sonnet-dev (>= 5.2.0),
                libkf5xmlgui-dev (>= 5.2.0),
-               pkg-kde-tools (>= 0.15.15ubuntu1~),
+               pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev (>= 5.4.0~),
                xauth,
                xvfb
@@ -27,6 +27,8 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kmenuedit.git
 Package: kmenuedit
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: XDG menu editor
  This package provides a menu editor which may be used to edit the KDE Plasma
  workspaces menu or any other XDG menu.
