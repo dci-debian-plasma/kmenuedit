@@ -6,7 +6,7 @@ Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.18.0~),
-               khotkeys-dev (>= 4:5.5.1~),
+               khotkeys-dev (>= 4:5.5.5~),
                kinit-dev (>= 5.18.0~),
                kio-dev (>= 5.18.0~),
                libkf5dbusaddons-dev (>= 5.18.0~),
