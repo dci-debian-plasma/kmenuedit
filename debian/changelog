@@ -1,8 +1,20 @@
-kmenuedit (4:5.6.2-1~1.gbp0c6a0c) UNRELEASED; urgency=medium
+kmenuedit (4:5.6.3-1~1.gbp5ceec3) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @5ceec3dd88baa9fc3d2c676bab2f498bbe8cddbe **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @0c6a0c450092b0d702fc9e6afdd13b6bbf6ceb4a **
+  * uscan no longer supports this kind of watch files.
+  * New upstream release (5.5.5).
+  * Force installing in debian/tmp
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:13:13 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 17:13:41 +0200
 
 kmenuedit (4:5.5.4-1) experimental; urgency=medium
 
