@@ -1,6 +1,6 @@
-kmenuedit (4:5.6.3-1~1.gbp5ceec3) UNRELEASED; urgency=medium
+kmenuedit (4:5.6.4-1~1.gbp8df310) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5ceec3dd88baa9fc3d2c676bab2f498bbe8cddbe **
+  ** SNAPSHOT build @8df31069f8ca009460a8bdf87581baa7b25f92d7 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @0c6a0c450092b0d702fc9e6afdd13b6bbf6ceb4a **
@@ -10,11 +10,12 @@ kmenuedit (4:5.6.3-1~1.gbp5ceec3) UNRELEASED; urgency=medium
   * Automatic update with ddeb_migration3.py
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 17:13:41 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 02:13:12 +0200
 
 kmenuedit (4:5.5.4-1) experimental; urgency=medium
 
