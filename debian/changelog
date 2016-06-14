@@ -1,10 +1,11 @@
-kmenuedit (4:5.6.4-2~1.gbpf64e34) UNRELEASED; urgency=medium
+kmenuedit (4:5.6.5-1~1.gbp80c3b9) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @f64e34f03eab9f33cc133f00599be1f1b3c6feae **
+  ** SNAPSHOT build @80c3b9938675748e56af57d047ed713ee3c66303 **
 
   * Update lintian override for libkdeinit5_kmenuedit.so
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Thu, 02 Jun 2016 15:13:15 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 20:13:10 +0200
 
 kmenuedit (4:5.6.4-1) unstable; urgency=medium
 
