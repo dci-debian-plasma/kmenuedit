@@ -2,6 +2,9 @@ kmenuedit (4:5.7.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Recommend khotkeys: while kmenuedit works mostly fine without the
+    khotkeys kded module, it is needed at runtime to deal with global
+    shortcuts. (Closes: #796981)
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 21 Aug 2016 12:08:15 +0200
 
