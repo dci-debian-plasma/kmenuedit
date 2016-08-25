@@ -20,7 +20,6 @@ kmenuedit (4:5.6.5-1) unstable; urgency=medium
 kmenuedit (4:5.6.4-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @0c6a0c450092b0d702fc9e6afdd13b6bbf6ceb4a **
   * uscan no longer supports this kind of watch files.
   * New upstream release (5.5.5).
   * Force installing in debian/tmp
