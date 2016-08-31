@@ -1,6 +1,4 @@
-kmenuedit (4:5.7.4-1~1.gbp1db437) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @1db43761595948b73a5f66d76890ef52d258b7eb **
+kmenuedit (4:5.7.4-1) unstable; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
@@ -10,11 +8,8 @@ kmenuedit (4:5.7.4-1~1.gbp1db437) UNRELEASED; urgency=medium
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kmenuedit.install, no more used now
-  * start preparing 5.7.3
-  * recommend khotkeys (#796981)
-  * simplify local installation
 
- -- Pino Toscano <pino@debian.org>  Fri, 26 Aug 2016 14:13:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 31 Aug 2016 15:51:52 +0200
 
 kmenuedit (4:5.6.5-1) unstable; urgency=medium
 
