@@ -1,3 +1,11 @@
+kmenuedit (4:5.7.5-1~1.gbpd1ce0e) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d1ce0e7dc118fb600a77d3ffdec0b65480885f97 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 20:13:35 +0200
+
 kmenuedit (4:5.7.4-1) unstable; urgency=medium
 
   [ Pino Toscano ]
