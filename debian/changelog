@@ -1,11 +1,12 @@
-kmenuedit (4:5.8.0-1~1.gbpc2a483) UNRELEASED; urgency=medium
+kmenuedit (4:5.8.0-1~2.gbpefefee) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c2a4830377fcf63baf119936dc5684f1cec2a0dd **
+  ** SNAPSHOT build @efefee3e079123be7a0b72748c5b4d9acb96a25c **
 
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:43:53 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 06 Oct 2016 10:13:32 +0200
 
 kmenuedit (4:5.7.4-1) unstable; urgency=medium
 
