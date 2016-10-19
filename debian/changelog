@@ -1,10 +1,8 @@
-kmenuedit (4:5.8.2-1~1.gbp4b3293) UNRELEASED; urgency=medium
+kmenuedit (4:5.8.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @4b3293d9fbd3635e9c3204e5a410f28be0a3ad84 **
+  * New upstream release (5.8.2)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 20:13:24 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 15:28:36 +0200
 
 kmenuedit (4:5.8.1-1) unstable; urgency=medium
 
