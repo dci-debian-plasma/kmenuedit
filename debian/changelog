@@ -1,3 +1,11 @@
+kmenuedit (4:5.8.3-1~1.gbpdae08e) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @dae08e48bc0be7eaec9170e4b625927d220bd5b3 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 17:13:14 +0100
+
 kmenuedit (4:5.8.2-1) unstable; urgency=medium
 
   * New upstream release (5.8.2)
