@@ -18,7 +18,7 @@ Build-Depends: cmake (>= 2.8.12),
                pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev (>= 5.4.0~),
                xauth,
-               xvfb
+               xvfb,
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/kmenuedit
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/kmenuedit.git
