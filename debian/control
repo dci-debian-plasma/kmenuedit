@@ -37,7 +37,7 @@ Description: XDG menu editor
 
 Package: kmenuedit-dbg
 Section: debug
-Priority: extra
+Priority: optional
 Architecture: any
 Depends: kmenuedit (= ${binary:Version}), ${misc:Depends}
 Recommends: qtbase5-dbg
@@ -46,3 +46,4 @@ Description: XDG menu editor
  workspaces menu or any other XDG menu.
  .
  This package contains the debugging symbols.
+
